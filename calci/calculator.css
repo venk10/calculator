@@ -1,0 +1,13 @@
+.button{
+    display: grid;
+    grid-template:1fr 1fr 1fr 1fr /1fr 1fr 1fr 1fr  ;
+
+}
+#result{
+    color: white;
+    background-color: black;
+}
+input{
+    background-color: grey;
+    color: white;
+}
